@@ -1,6 +1,6 @@
-## Hi there 👋
+Olá 👋
 
-Boas vindas ao meu perfil 💙💙
+Este é o meu perfil
 Meu nome é Victor Hugo Oliveira 
 
 Estou estudando na Alura
